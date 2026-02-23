@@ -34,6 +34,16 @@ My_First_Agent_AI/
 │── README.md         # Project documentation
 ```
 
+---
+## ⚙️ Installation
+### 1️⃣ Clone the repository
+
+### 2️⃣ Create virtual environment (recommended)
+
+### 3️⃣ Install dependencies
+
+### ▶️ Usage
+
 
 ---
 
