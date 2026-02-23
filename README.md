@@ -39,8 +39,8 @@ My_First_Agent_AI/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/My_First_Agent_AI.git
+cd My_First_Agent_AI
 ```
 
 ### 2️⃣ Create virtual environment (recommended)
@@ -55,6 +55,15 @@ venv\Scripts\activate      # Windows
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+### 4️⃣ Configure Environment Variables
+
+Create a .env file and add:
+```Code
+GOOGLE_API_KEY=your_api_key_here
+```
+
 ### ▶️ Usage
 
 ```bash
