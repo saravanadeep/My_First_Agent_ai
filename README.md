@@ -55,7 +55,6 @@ venv\Scripts\activate      # Windows
 ```bash
 pip install -r requirements.txt
 ```
----
 
 ### 4️⃣ Configure Environment Variables
 
