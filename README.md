@@ -26,6 +26,38 @@ The project structure is modular and scalable, making it suitable for future enh
 
 ## 📂 Project Structure
 
+```bash
+My_First_Agent_AI/
+│── agent.py          # Main agent implementation
+│── __init__.py       # Package initializer
+│── .env              # Environment variables (API key)
+│── README.md         # Project documentation
+```
+
+
+---
+
+## 🎯 Purpose of This Project
+
+This project is part of my journey toward building scalable AI systems and becoming proficient in AI/Data Science engineering.
+
+---
+
+## 🔮 Future Improvements
+
+- Add memory support
+- Integrate external tools
+- Deploy as REST API
+- Add logging & monitoring
+- Implement multi-agent coordination
+
+---
+
+## 👨‍💻 Author
+
+**K R Saravanadeep**  
+Aspiring AI & Data Science Engineer
+
 
 
 
